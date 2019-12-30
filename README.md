@@ -9,4 +9,4 @@ To generate, call: generateNightSky(numStars, sizeVariation, glowRGB);
 // glowRGB [anyColour]
 
 Example (generateNightSky(5000, 10, [.3176, .8475, 1]);)
-<img src="https://i.imgur.com/VkzNenm.mp4" loop autoplay />
+<video src="https://i.imgur.com/VkzNenm.mp4" loop autoplay ></video>
