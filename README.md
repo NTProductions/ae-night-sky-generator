@@ -9,4 +9,4 @@ To generate, call: generateNightSky(numStars, sizeVariation, glowRGB);
 // glowRGB [anyColour]
 
 <h3>Example (generateNightSky(5000, 10, [.3176, .8475, 1]);)</h3>
-<iframe src='https://gfycat.com/ifr/PerfectEvergreenKestrel' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
+<img src="https://gfycat.com/ifr/PerfectEvergreenKestrel" />
